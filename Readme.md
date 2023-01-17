@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Алмаз Сиразеев](https://up.htmlacademy.ru/htmlcss/36/user/2046619).
-* Наставник: `Неизвестно`.
+* Наставник: [Оксана Сергеева](https://htmlacademy.ru/profile/oksana).
 
 ---
 
